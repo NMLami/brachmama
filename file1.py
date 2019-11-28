@@ -1,1 +1,1 @@
-print("python 2")
+print("YO")

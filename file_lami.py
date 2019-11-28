@@ -1,1 +1,1 @@
-print("lami lami lami")
+print("YO")
