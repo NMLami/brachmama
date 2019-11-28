@@ -1,0 +1,1 @@
+print("lami lami lami")
